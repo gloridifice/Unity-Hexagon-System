@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ba9a5ad09db1e35469681a6913324ae3
+  m_SerializeEntries:
+  - m_GUID: b8d98c8f6f65a1e4ea917020ea1e9208
+    m_Address: Assets/HexagonSystem/Prefabs/p_BaseHexTile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5dd16c3c668a0fb4f926bd2bc9af8ba8
+    m_Address: HexagonSystem/Models/f_SlotTriangles.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c613e25eb543d224697681155c4cebee
+    m_Address: Assets/HexagonSystem/Prefabs/p_BaseSlotModule_2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7c6b8ff1c0bbb3e41803c8e6ec2183ea
+    m_Address: Assets/HexagonSystem/Prefabs/p_BaseSlotModule_0.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0a9683c5fba31704899ecaf454ad4c48
+    m_Address: Assets/HexagonSystem/Prefabs/p_BaseSlotModule_1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 0ba31db6e2e1cc44ab9f712d1af08024, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 01061edf10a39b140b9da3d6a4ba8c85, type: 2}
+    - {fileID: 11400000, guid: a72bb141d2b1d9f4fbc2316e94719ed5, type: 2}
